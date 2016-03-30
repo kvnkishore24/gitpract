@@ -1,0 +1,7 @@
+				Linux Tutorial (Kre)
+
+To find all available shells in your system type following command:
+
+				cat /etc/shells							
+To Know the current shell 
+				echo $SHELL
